@@ -1,0 +1,2 @@
+# ElectricBoogaloo
+Rails Music Project
